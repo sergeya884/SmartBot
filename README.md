@@ -1,4 +1,4 @@
-![](https://ghttps://github.com/sergeya884/SmartBot/tree/main/photo/robot.jpg) 
+![](https://github.com/sergeya884/SmartBot/tree/main/photo/robot.jpg) 
 
 Это проект по разработке умного робота с использованием машинного обучения.
 
