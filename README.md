@@ -1,6 +1,6 @@
-![](https://github.com/sergeya884/SmartBot/tree/main/photo/robot.jpg) 
-
 Это проект по разработке умного робота с использованием машинного обучения.
+
+![](https://github.com/sergeya884/SmartBot/tree/main/photo/robot.jpg) 
 
 common - основная папка с программами и описанием.
 
